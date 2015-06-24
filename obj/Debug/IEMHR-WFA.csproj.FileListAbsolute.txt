@@ -1,0 +1,14 @@
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\bin\Debug\IEMHR-WFA.exe.config
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\bin\Debug\App_Data\IEMHR_DB.mdf
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\bin\Debug\App_Data\IEMHR_DB_log.ldf
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\bin\Debug\IEMHR-WFA.exe
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\bin\Debug\IEMHR-WFA.pdb
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR-WFA.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR_WFA.Properties.Resources.resources
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR-WFA.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR-WFA.exe
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR-WFA.pdb
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR_WFA.MainFrm.resources
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR_WFA.Forms.Prescription.PrescriptionDetailsFrm.resources
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR_WFA.Forms.Account.LoginFrm.resources
+C:\Visual Studio Projects\IEMHR-WFA\IEMHR-WFA\obj\Debug\IEMHR_WFA.Forms.Splash.SplashScreenFrm.resources
