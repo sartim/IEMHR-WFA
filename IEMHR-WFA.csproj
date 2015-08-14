@@ -67,22 +67,22 @@
     <Compile Include="Forms\Account\LoginFrm.Designer.cs">
       <DependentUpon>LoginFrm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Main\MainFrm.cs">
+    <Compile Include="Forms\MainFrm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Main\MainFrm.Designer.cs">
+    <Compile Include="Forms\MainFrm.Designer.cs">
       <DependentUpon>MainFrm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Prescription\PrescriptionDetailsFrm.cs">
+    <Compile Include="Forms\PrescriptionDetailsFrm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Prescription\PrescriptionDetailsFrm.Designer.cs">
+    <Compile Include="Forms\PrescriptionDetailsFrm.Designer.cs">
       <DependentUpon>PrescriptionDetailsFrm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Splash\SplashScreenFrm.cs">
+    <Compile Include="Forms\SplashScreenFrm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Splash\SplashScreenFrm.Designer.cs">
+    <Compile Include="Forms\SplashScreenFrm.Designer.cs">
       <DependentUpon>SplashScreenFrm.cs</DependentUpon>
     </Compile>
     <Compile Include="IEMHR_DB_DataSet.Designer.cs">
@@ -95,13 +95,13 @@
     <EmbeddedResource Include="Forms\Account\LoginFrm.resx">
       <DependentUpon>LoginFrm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Main\MainFrm.resx">
+    <EmbeddedResource Include="Forms\MainFrm.resx">
       <DependentUpon>MainFrm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Prescription\PrescriptionDetailsFrm.resx">
+    <EmbeddedResource Include="Forms\PrescriptionDetailsFrm.resx">
       <DependentUpon>PrescriptionDetailsFrm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Splash\SplashScreenFrm.resx">
+    <EmbeddedResource Include="Forms\SplashScreenFrm.resx">
       <DependentUpon>SplashScreenFrm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
